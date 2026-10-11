@@ -179,6 +179,7 @@ export const FALLBACK_SEEDS: FallbackTopicSeed[] = [
 	{ id: "peak-end-kurali", title: "Peak-end kuralı", category: "psikoloji" },
 	{ id: "hedonik-adaptasyon", title: "Hedonik adaptasyon", category: "psikoloji" },
 	{ id: "kumarbazin-yanilgisi", title: "Kumarbazın yanılgısı", category: "psikoloji" },
+	{ id: "varis-yanilgisi", title: "Varış yanılgısı", category: "psikoloji" },
 	{ id: "plasebo-etkisi-nasil-calisir", title: "Plasebo etkisi nasıl çalışır?", category: "psikoloji" },
 	{ id: "nocebo-etkisi", title: "Nocebo etkisi nedir?", category: "psikoloji" },
 	{ id: "halo-etkisi", title: "Halo etkisi nedir?", category: "psikoloji" },
